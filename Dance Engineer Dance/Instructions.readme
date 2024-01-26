@@ -1,0 +1,5 @@
+﻿Dance Engineer Dance
+-----------
+
+This is a DDR-like game that uses sensor blocks to detect which button the player is over.
+it also does keyboard input from the helm control.
